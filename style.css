@@ -1,0 +1,20 @@
+body {
+    background-color: #f4f6f9;
+    font-family: Arial, sans-serif;
+}
+
+.card {
+    border-radius: 15px;
+}
+
+h2 {
+    font-weight: bold;
+}
+
+label {
+    font-weight: 500;
+}
+
+#result {
+    margin-bottom: 30px;
+}
